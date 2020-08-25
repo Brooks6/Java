@@ -1,0 +1,5 @@
+//main method
+  1.public is an access modifier we discussed when defining the class in the last video - same principle
+  2.static is a java keyword that needs an understanding of other concepts, for now, know that we need to have static
+    for java to find our method to run the code we are going to add
+  3.void is yet another java keyword used to indicate that the method will not return anything more on the later
