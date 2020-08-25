@@ -3,3 +3,15 @@
   2.static is a java keyword that needs an understanding of other concepts, for now, know that we need to have 
     static for java to find our method to run the code we are going to add
   3.void is yet another java keyword used to indicate that the method will not return anything more on the later
+  4.statement: a complete command to be executed and can include one or more expressions
+
+//primitive Types
+  1.the eight primitive data types in Java are boolean, byte, char, short, int, long, float and double
+  2.if you try and put a value larger than the maximum value in java, or a value smaller than the minimum value
+    in java, then you will get an Overflow in the case of the maximum value or an Underflow in the case of the
+    minimum.
+
+//byte, short, long and width
+  1.a Byte occupies 8 bit, we say that a byte has a width of 8
+  2.a short can store a large range of numbers and occupies 16 bits, and has a width of 16
+  3.an int, has a much larger range as we know, and occupies 32 bits, and has a width of 32
