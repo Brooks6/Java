@@ -15,3 +15,23 @@
   1.a Byte occupies 8 bit, we say that a byte has a width of 8
   2.a short can store a large range of numbers and occupies 16 bits, and has a width of 16
   3.an int, has a much larger range as we know, and occupies 32 bits, and has a width of 32
+
+//casting in java
+  1.casying means to treat or convert a number from one type to another. e.g.(byte)(myMinByteValue/2);
+  
+//parsing values from a String
+  1.Integer.parseInt(parameter);Double.parseDouble(parameter);
+  
+//reference, object, instance, class
+  1.a class is basically a blueprint for a house, using the blueprint(plans) we can build as many houses as we
+    like based on those plans
+  2.each house you build(in other words instantiate using the new operator) is an object also known as an 
+    instance
+  3.each house you build has an address(a physical location). In other words if you want to tell someone where
+    you live, you give them our address(perhaps written on a piece of paper). This is know as a reference. You
+    can copy that reference as many times as you like but there is still just one house. In other words we are
+    copying the paer that has address on it not the house itself. We can pass references as parameters to
+    constructors and methods.
+  4.in Java, you always have references to an object in memory. there is no way to access an object directly
+    everything is done using a reference
+  
